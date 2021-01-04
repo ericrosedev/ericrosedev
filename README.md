@@ -10,4 +10,4 @@ I love science fiction novels __[📚](http://www.thehugoawards.org/)__ and shor
 
 __[www.ericrose.dev](http://www.ericrose.dev)__
 
-__[CodePen](https://codepen.io/ericrosedev)__
+__[codepen](https://codepen.io/ericrosedev)__
